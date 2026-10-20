@@ -1,16 +1,36 @@
-## Hi there 👋
+Sobre mim
 
-<!--
-**Lucas2244170/Lucas2244170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! eu sou Lucas2244170
 
-Here are some ideas to get you started:
+🎓 Estudante de Informática no IFTO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por Desenvolvimento Web
+
+🚀 Sempre aprendendo novas tecnologias.
+
+idade; (18)
+cidade; Formoso do Araguaia
+curso; Informatica
+interesses na área de tecnologia; Programação
+objetivos profissionais. ser melhor
+
+HTML
+CSS
+JavaScript
+Python
+Git
+GitHub
+
+Escola Digital Livro
+Zé forminha 
+
+Email lucas.galvão2@estudante.ifto.edu.br
+Instagram
+
+Desenvolver uma API
+Aprender mais sobre programação 
+Conseguir um estágio
+
+Gosto de jogos.
+Gosto de aprender novas tecnologias.
+Gosto de filmes
